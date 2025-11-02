@@ -88,14 +88,14 @@ getgenv().gagConfig = {
 	MAX_REBIRTH_SHECKLES = 1_000_000_000_000_000,
 	BUY_ASCEND_SHOP = {"Egg Capacity Upgrade"},
 
-    EQUIP_PETS = { {"Rooster", 8, 1} },
+    EQUIP_PETS = { {"Rhino", 8, 1}, {"Rooster", 8, 2} },
     USE_PETS_FOR_UPGRADE_SLOT = {},
     REMOVE_PET_MAX_UPGRADE = { "Glimmering Sprite", "Starfish" },  -- Unequip from garden
 
     BUY_GEAR_SHOP = { "Grandmaster Sprinkler", "Master Sprinkler", "Godly Sprinkler", "Advanced Sprinkler", "Basic Sprinkler", "Trading Ticket", ["Harvest Tool"] = 10, ["Watering Can"] = 20 },
     USE_SPRINKLER = { "Basic Sprinkler", "Master Sprinkler", "Godly Sprinkler", "Advanced Sprinkler", "Grandmaster Sprinkler" },
 
-    PET_WEBHOOK_URL = "https://discord.com/api/webhooks/1401083392438698114/WohD89LQTWnzqXqPbqgujhLSiqERc_2RFv3aiO36abV8-4miuif_ZoJ2k_XMNs6zrCsB",
+    PET_WEBHOOK_URL = "https://discord.com/api/webhooks/1401083623142064160/hO8--Y6wgTjUnD0mE-ZUyvJ2bZHQnKzc5uUNwOtw8_2ZXz7Uw19kUFhev2u6ServAVkW",
 	SHOW_PUBLIC_DISCORD_ID = false,
     SEED_WEBHOOK_URL = "", 
     NOTIFY_PETS = {
